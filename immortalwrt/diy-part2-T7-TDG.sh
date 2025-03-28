@@ -77,6 +77,9 @@ git clone https://github.com/sirpdboy/luci-app-lucky package/lucky-packages
 git clone https://github.com/lwb1978/openwrt-gecoosac package/openwrt-gecoosac
 # git clone -b v1.0 https://github.com/lwb1978/openwrt-gecoosac package/openwrt-gecoosac
 
+# Add ikoolproxy
+git clone https://github.com/mrkenz9595/luci-app-ikoolproxy package/luci-app-ikoolproxy
+
 # 添加主题
 rm -rf feeds/luci/themes/luci-theme-argon
 # git clone --depth=1 https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
